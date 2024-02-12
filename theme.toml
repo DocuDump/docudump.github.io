@@ -22,15 +22,13 @@ tags = [
 
 features = [
   "Multi-Authors",
-  "Search",
   "Multilingual",
   "Dark Mode",
-  "Taxonomies",
 ]
 
 [author]
-name = "Zeon Studio"
-homepage = "https://zeon.studio"
+name = "DocuDomp"
+homepage = "https://github.com/DocuDump"
 
 [original]
 author = "Zeon Studio"
