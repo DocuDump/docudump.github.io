@@ -1,9 +1,9 @@
 {
-  "name": "DocuDump",
+  "name": "docudump.github.io",
   "description": "Static site for DocuDump",
   "version": "1.11.2",
   "license": "MIT",
-  "author": "zeon.studio",
+  "author": "docudump",
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
