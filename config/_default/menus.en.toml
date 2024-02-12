@@ -17,12 +17,7 @@ name = "Blog"
 url = "blog/"
 
 [[main]]
-name = "Elements"
-url = "elements/"
 weight = 4
-
-[[main]]
-weight = 5
 name = "Pages"
 hasChildren = true
 
@@ -57,11 +52,6 @@ url = "404/"
 name = "About"
 url = "about/"
 weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"

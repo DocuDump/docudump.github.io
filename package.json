@@ -1,6 +1,6 @@
 {
-  "name": "hugoplate",
-  "description": "hugo tailwindcss boilerplate",
+  "name": "DocuDump",
+  "description": "Static site for DocuDump",
   "version": "1.11.2",
   "license": "MIT",
   "author": "zeon.studio",
