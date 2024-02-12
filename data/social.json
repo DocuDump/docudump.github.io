@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/DocuDump/DocuDump/"
+    },
+    {
+      "name": "discord",
+      "icon": "fab fa-discord",
+      "link": "https://discord.gg/GAnaUzVp"
+    }
+  ]
+}
