@@ -3,7 +3,7 @@ title: "Milestone 3"
 meta_title: ""
 description: "DocuDump prototype announcement"
 date: 2024-03-08T05:00:00Z
-image: ""
+image: "/images/file-upload.png"
 categories: []
 author: "Dev Team"
 tags: []

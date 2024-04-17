@@ -3,7 +3,7 @@ title: "Milestone 4"
 meta_title: ""
 description: "DocuDump contribution announcement"
 date: 2024-04-15T05:00:00Z
-image: ""
+image: "/images/milestone4.png"
 categories: []
 author: "Dev Team"
 tags: []
